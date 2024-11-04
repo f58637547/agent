@@ -1,5 +1,9 @@
+langchain-core
 langgraph
-langchain_anthropic
+langchain-community
 tavily-python
-langchain_community
-langchain_aws
+uvicorn
+fastapi
+pydantic
+langchain-groq
+python-dotenv
